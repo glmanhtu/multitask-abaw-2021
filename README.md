@@ -4,7 +4,9 @@ This is the repository containing the solution for 2nd ABAW 2021 Competition
 
 This implementation is adapted from https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels
 
-Pretrained model: to be updated
+Pretrained model: [download](https://drive.google.com/file/d/1_QPFkNYyfGF5HH9BDWhLI5BcQrrt3Dsw/view?usp=sharing)
+
+
 
 ## Train a new model
 
