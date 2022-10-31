@@ -1,6 +1,12 @@
 # Multitask Multi-database Emotion Recognition
 
-This is the repository containing the solution for 2nd ABAW 2021 Competition
+This is the repository containing the solution for 2nd ABAW 2021 Competition. The theory behind this implementation can be found in the following publication:
+
+```
+M. T. Vu, M. Beurton-Aimar and S. Marchand, "Multitask Multi-database Emotion Recognition," 2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), 2021, pp. 3630-3637, doi: 10.1109/ICCVW54120.2021.00406.
+```
+
+A copy of the publication is attached in this repository.
 
 This implementation is adapted from https://github.com/wtomin/Multitask-Emotion-Recognition-with-Incomplete-Labels
 
